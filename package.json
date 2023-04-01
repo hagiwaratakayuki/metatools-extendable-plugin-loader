@@ -1,0 +1,19 @@
+{
+  "name": "@meatatools/extendable-plugin-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/test.js"
+  },
+  "keywords": [
+    "plugin",
+    "loader",
+    "extendable"
+  ],
+  "author": "Hagiwara Takayuki",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
