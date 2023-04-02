@@ -6,6 +6,11 @@
   "scripts": {
     "test": "mocha src/test.js"
   },
+  "exports": {
+    "import": "./src/index.mjs",
+    "require": "./src/index.cjs",
+    "node": "./src/index.cjs"
+  },
   "keywords": [
     "plugin",
     "loader",

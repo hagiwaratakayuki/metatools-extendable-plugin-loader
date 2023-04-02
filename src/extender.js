@@ -1,4 +1,4 @@
-const defautConstructor = require('./constructors').clsConstructor;
+const defautConstructor = require('./constructfunction').clsConstructor;
 /**
  * 
  * @param {[{plugin:any, options:any}]} pluginsets 
