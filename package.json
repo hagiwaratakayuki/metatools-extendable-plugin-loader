@@ -1,5 +1,5 @@
 {
-  "name": "@meatatools/extendable-plugin-loader",
+  "name": "meatatools-extendable-plugin-loader",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,7 +18,8 @@
   ],
   "author": "Hagiwara Takayuki",
   "license": "MIT",
-  "dependencies": {
+  "devdependencies": {
     "mocha": "^10.2.0"
-  }
+  },
+  "homepage": "https://github.com/hagiwaratakayuki/metatools-extendable-plugin-loader"
 }
