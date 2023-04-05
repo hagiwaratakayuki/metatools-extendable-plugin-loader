@@ -1,4 +1,4 @@
-# @Metatools/Extendable-Plugin-Loader Plugin Loader
+# @Metatools/Extendable-Plugin-Loader
 
 plugin system extendable from preset
 
