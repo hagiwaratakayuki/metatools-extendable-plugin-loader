@@ -5,7 +5,7 @@ plugin system extendable from preset
 ## Install
 
 ```bash
-npm install @meatatools/parallworker
+npm install meatatools-parallworker
 ```
 
 ## Usage
